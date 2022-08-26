@@ -2,6 +2,8 @@
 
 Stereo Zombie's 2022 NLP project.
 
+![banner image](banner.png)
+
 ## Model
 
 Download the model [here.](https://drive.google.com/file/d/1b8fmkjnAvshMNdqEn0usP0ZB021c0Sf-/view?usp=sharing) Unzip it and place "model_folder" in the "app" directory.
